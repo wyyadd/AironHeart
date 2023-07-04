@@ -1,9 +1,9 @@
-### What is Text to Image?
+## What is Text to Image?
 Text to Image is a technique that transforms written text into visual representations.
 
 It offers a creative and engaging way to represent textual content using visual elements.
 
-### Example
+## Example
 Let's consider a simple example to illustrate Text to Image conversion:
 
 Input Text: "A red rose blooming in a lush green garden"
@@ -14,7 +14,7 @@ Text to Image Result:
 
 In this example, the input text describing a red rose blooming in a lush green garden is transformed into a captivating image. 
 
-### How to play Text to Image at AironHeart?
+## How to play Text to Image at AironHeart?
 At AironHeart, you can utilize the Text to Image feature to generate stunning visuals.
 
 ![Text2Image](https://raw.githubusercontent.com/wyyadd/AironHeart/main/images/Text2Image.png)
