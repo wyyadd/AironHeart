@@ -1,5 +1,5 @@
-![AironHeart Logo](https://raw.githubusercontent.com/wyyadd/AironHeart/main/images/aironheart.png)  
-We are a team dedicated to harnessing the power of artificial intelligence to better assist humanity.
+__We are a team dedicated to harnessing the power of artificial intelligence to better assist humanity.__  
+![AironHeart Logo](https://raw.githubusercontent.com/wyyadd/AironHeart/main/images/aironheart.png)
 ## Our Mission
 At AironHeart, we believe in the power of AI to make a positive impact on humanity.  
 Our mission is to provide users with an environment full of creativity and imagination through innovative AI tools and applications.  
