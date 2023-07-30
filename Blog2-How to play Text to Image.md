@@ -1,3 +1,6 @@
+## Update
+__AironHeart now support Stable Diffussion XL 1.0 !👏__
+
 ## What is Text to Image?
 Text to Image is a technique that transforms written text into visual representations.
 
