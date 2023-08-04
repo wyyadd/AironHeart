@@ -3,7 +3,7 @@ Super-resolution imaging is a revolutionary technique used to enhance the resolu
 
 By employing advanced algorithms and processing techniques, it allows you to reveal finer details and obtain sharper, more refined images. 
 
-## How to play Super Resolution at AironHeart?
+## How to play Image Enhancer at AironHeart?
 Here's how you can use AironHeart to play with super-resolution:
 
 ### 1. Click "Upload Image" and choose the image you want to beautify.
