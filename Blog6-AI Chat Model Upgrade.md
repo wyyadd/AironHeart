@@ -1,4 +1,4 @@
-### We're excited to announce a significant upgrade🥳. Our AI Chat model has upgraded from ChatGLM2-6B to Mistral 7B, the most powerful language model for its size to date.
+Our AI Chat model has upgraded from __ChatGLM2-6B__ to __Mistral 7B__ 🥳, the most powerful language model for its size to date.
 
 ## Mistral 7B in short
 
